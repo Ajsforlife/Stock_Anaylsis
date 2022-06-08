@@ -1,4 +1,3 @@
-
 ### VBA Stock Analysis
 The analysis of several stocks using VBA macros in excel to automate the process of collecting data.
 
